@@ -1,16 +1,29 @@
-### Hi there 👋
+<div><image src="https://user-images.githubusercontent.com/21374145/118858135-2d13ec00-b8af-11eb-81c6-b47ba9f3315e.png"/></div>
 
-<!--
-**antonio-raian/antonio-raian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Whats up dude ✌️
 
-Here are some ideas to get you started:
+### Hi, I'm Antonio Raian Mendes and I'm...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍼 25 years old;
+
+🏙️ From Irecê, Bahia;
+
+📚 a student of computer engineering;
+
+👨🏻‍💻 a fullstack developer;
+
+
+### About my skills... 🔍
+
+- HTML e CSS;
+- Java | JavaScript | TypeScript | Python;
+- RESTFULL Aplications;
+- Relational and Non-Relational Databases;
+
+### Tools used... 🧰
+
+- React | React Native;
+- Angular;
+- Adonis;
+- NodeJS and Express;
+- PostgreSQL | MySQL | MongoDB;
