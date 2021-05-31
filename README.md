@@ -29,6 +29,8 @@
 - PostgreSQL | MySQL | MongoDB;
 
 ### Contacts
+* [Curriculum - PT-BR.pdf](https://github.com/antonio-raian/antonio-raian/files/6571098/Curriculo.-.Antonio.Raian.pdf)
+* [Curriculum - EN.pdf](https://github.com/antonio-raian/antonio-raian/files/6571116/Curriculum.-.Antonio.Raian.pdf)
 
 * Email: raymendesjr2013@gmail.com
 * Phone: +55 74 9.9976-2668
