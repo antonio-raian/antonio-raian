@@ -38,3 +38,10 @@
   <a href="https://api.whatsapp.com/send?phone=5574999762668&text=Ol%C3%A1%2C%20vim%20pelo%20github"><image src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="50" height="50" /></a>
   <a styles="padding: 10" href="https://www.linkedin.com/in/antonio-raian-mendes-42887ba4/"><image src="https://image.flaticon.com/icons/png/512/174/174857.png" width="60" height="50" /></a>  
 </div>
+
+### Status
+ <div>
+  <a href="https://github.com/antonio-raian">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=antonio-raian&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-raian&layout=compact&langs_count=18&theme=default"/>
+<div>
