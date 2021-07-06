@@ -45,3 +45,5 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=antonio-raian&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-raian&layout=compact&langs_count=6&theme=default"/> 
 <div> -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-raian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
