@@ -33,10 +33,8 @@
 * [Curriculum - EN.pdf](https://github.com/antonio-raian/antonio-raian/files/6571116/Curriculum.-.Antonio.Raian.pdf)
 
 * Email: raymendesjr2013@gmail.com
-* Phone: +55 74 9.9976-2668
 <div >
-  <a href="https://api.whatsapp.com/send?phone=5574999762668&text=Ol%C3%A1%2C%20vim%20pelo%20github"><image src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" width="50" height="50" /></a>
-  <a styles="padding: 10" href="https://www.linkedin.com/in/antonio-raian-mendes-42887ba4/"><image src="https://image.flaticon.com/icons/png/512/174/174857.png" width="60" height="50" /></a>  
+  <a styles="padding: 10" href="https://www.linkedin.com/in/antonio-raian-mendes-42887ba4/"><image src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/6ec1e44d-f01a-4ce2-9cbf-314d6f085e45.png" width="60" height="50" /></a>  
 </div>
 
 <!-- ### Status
