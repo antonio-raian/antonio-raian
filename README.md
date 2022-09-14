@@ -4,7 +4,7 @@
 
 ### Hi, I'm Antonio Raian Mendes and I'm...
 
-🍼 26 years old;
+🍼 27 years old;
 
 🏙️ From Irecê, Bahia;
 
@@ -29,9 +29,6 @@
 - PostgreSQL | MySQL | MongoDB;
 
 ### Contacts
-* [Curriculum - PT-BR.pdf](https://github.com/antonio-raian/antonio-raian/files/6571098/Curriculo.-.Antonio.Raian.pdf)
-* [Curriculum - EN.pdf](https://github.com/antonio-raian/antonio-raian/files/6571116/Curriculum.-.Antonio.Raian.pdf)
-
 * Email: raymendesjr2013@gmail.com
 <div >
   <a styles="padding: 10" href="https://www.linkedin.com/in/antonio-raian-mendes-42887ba4/"><image src="https://www.gov.br/observatorio/en/academic-programs/graduate-program-in-geophysics/images/linkedin.png/@@images/6ec1e44d-f01a-4ce2-9cbf-314d6f085e45.png" width="60" height="50" /></a>  
