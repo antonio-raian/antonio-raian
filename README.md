@@ -4,10 +4,6 @@
 
 ### Hi, I'm Antonio Raian Mendes and I'm...
 
-🍼 27 years old;
-
-🏙️ From Irecê, Bahia;
-
 📚 a student of computer engineering;
 
 👨🏻‍💻 a fullstack developer;
